@@ -10,7 +10,7 @@ www.zip
 server.zip
 node_modules.zip
 appstore-patch-4533.sh
-appstore-rollback-4553.sh (Optional)
+appstore-rollback-4553.sh
 
  2. Run the Patch Script 
   Command :-  ./appstore-patch-4533.sh --user <username>
